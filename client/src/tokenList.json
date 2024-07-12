@@ -1,0 +1,23 @@
+[
+    {
+        "ticker": "BTC",
+        "img": "https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=010",
+        "name": "Bitcoin",
+        "address": "<Bitcoin_address>",
+        "decimals": 18
+    },
+    {
+        "ticker": "ETH",
+        "img": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=010",
+        "name": "Ethereum",
+        "address": "0xd38E5c25935291fFD51C9d66C3B7384494bb099A",
+        "decimals": 18
+    },
+    {
+        "ticker": "DOGE",
+        "img": "https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=010",
+        "name": "Dogecoin",
+        "address": "<Dogecoin_address>",
+        "decimals": 18
+    }
+]
