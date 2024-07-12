@@ -81,7 +81,7 @@ This project is licensed under a proprietary license. The use, modification, and
 
 ## Contact
 
-For any inquiries or support, please contact us at [dhananjaybuidl@gmail.com](mailto:dhananjaybuidl@gmail.com).
+For any inquiries or support, please contact us at [saadshaikh.business@gmail.com](mailto:saadshaikh.business@gmail.com).
 
 ---
 
